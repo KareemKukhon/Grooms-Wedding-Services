@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "95135359534",
+    "project_id": "rafeedclient-243cd",
+    "storage_bucket": "rafeedclient-243cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95135359534:android:aa5689a0467a96d577b5bf",
+        "android_client_info": {
+          "package_name": "com.rafeedsa.rafeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95135359534-hqfbjjlbmtm52nq9asvn3uhe67snimpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafeedsa.rafeed",
+            "certificate_hash": "7789f3b79ef8f12079fb2108688a51e439336bda"
+          }
+        },
+        {
+          "client_id": "95135359534-j288opq4829hl96qmtqkd6ke6nc8ra8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafeedsa.rafeed",
+            "certificate_hash": "c7c6767c940af636740b38ea0b64102a20b41662"
+          }
+        },
+        {
+          "client_id": "95135359534-67e867imf7h895ip4n4he4p53d4ethhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmo71D3P2lck1MRNHcQzCxlXrkkchbTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95135359534-67e867imf7h895ip4n4he4p53d4ethhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
